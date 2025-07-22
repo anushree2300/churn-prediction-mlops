@@ -103,10 +103,4 @@ git checkout -b feature/new-feature
 Make changes and run tests:
 
 pytest
-Submit a pull request to the main branch
-
-Troubleshooting
-Common Issues
-Long path errors on Windows: Enable long path support in Windows or use a shorter project path
-Docker compatibility issues: Use the requirements-docker.txt file for Docker builds
-No metrics in Grafana: Ensure Prometheus is correctly scraping your application by checking http://localhost:9090/targets```
+Submit a pull request to the main branch```
