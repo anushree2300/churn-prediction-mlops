@@ -1,5 +1,5 @@
 # Churn Prediction MLOps System
-An end-to-end MLOps pipeline for customer churn prediction using open-source tools.
+```An end-to-end MLOps pipeline for customer churn prediction using open-source tools.
 
 Project Overview
 This project implements a complete MLOps pipeline for a churn prediction system using:
@@ -109,4 +109,4 @@ Troubleshooting
 Common Issues
 Long path errors on Windows: Enable long path support in Windows or use a shorter project path
 Docker compatibility issues: Use the requirements-docker.txt file for Docker builds
-No metrics in Grafana: Ensure Prometheus is correctly scraping your application by checking http://localhost:9090/targets
+No metrics in Grafana: Ensure Prometheus is correctly scraping your application by checking http://localhost:9090/targets```
