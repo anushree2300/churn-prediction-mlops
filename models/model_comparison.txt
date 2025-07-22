@@ -1,0 +1,16 @@
+Model Comparison Results
+=======================
+
+Logistic_Regression:
+  Accuracy: 0.8055
+  Precision: 0.6572
+  Recall: 0.5588
+  AUC: 0.8418
+
+Random_Forest:
+  Accuracy: 0.7793
+  Precision: 0.6075
+  Recall: 0.4759
+  AUC: 0.8175
+
+Best model: Logistic_Regression with AUC: 0.8418
